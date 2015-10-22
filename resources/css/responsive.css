@@ -1,0 +1,12 @@
+@media (max-width: 500px){
+  .main h1 {
+    font-size: 3.125em;
+    padding: 0 40px;
+  }
+  .supporting .col {
+    width: 100%;
+  }
+  nav a {
+    margin: 0;
+  }
+}
